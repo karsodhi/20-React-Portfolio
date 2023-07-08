@@ -4,7 +4,7 @@ import hoopWizard from "../assets/projects/hoop-wizard.png";
 import vocabVault from "../assets/projects/vocab-vault.png";
 import netMinder from "../assets/projects/coming-soon.png";
 import weatherDashboard from "../assets/projects/coming-soon1.png";
-import socialNetwork from "../assets/projects/coming-soon2.png";
+import socialNetwork from "../assets/projects/social-network.png";
 import noteTaker from "../assets/projects/note-taker.png";
 
 
@@ -21,7 +21,7 @@ const Work = () => {
                     <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
                         Work
                     </p>
-                    <p className='py-6'>// Check out some of my recent work</p>
+                    <p className='py-6'>Check out some of my recent work</p>
                 </div>
 
                 {/* Container*/}
@@ -209,7 +209,7 @@ const Work = () => {
                                     </button>
                                 </a>
                                 {/* eslint-disable-next-line */}
-                                <a href="/" target="_blank">
+                                <a href="https://drive.google.com/file/d/11BXP97cADOPKCAszGo-GZjOe9qDbTVJn/view" target="_blank">
                                     <button
                                         className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
