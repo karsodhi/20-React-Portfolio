@@ -17,4 +17,4 @@ Live Link: https://karsodhi-c799eed7ca33.herokuapp.com/
 
 # Screenshot
 
-![Picture](./assets/screenshot.png)
+![Picture](./src/assets/screenshot.png)
