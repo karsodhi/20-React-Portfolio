@@ -2,7 +2,7 @@ import React from 'react';
 import { data } from "../data/data.js";
 import hoopWizard from "../assets/projects/hoop-wizard.png";
 import vocabVault from "../assets/projects/vocab-vault.png";
-import netMinder from "../assets/projects/coming-soon.png";
+import netMinder from "../assets/projects/netminder.png";
 import weatherDashboard from "../assets/projects/coming-soon1.png";
 import socialNetwork from "../assets/projects/social-network.png";
 import noteTaker from "../assets/projects/note-taker.png";
@@ -113,7 +113,7 @@ const Work = () => {
                                     </button>
                                 </a>
                                 {/* eslint-disable-next-line */}
-                                <a href="/" target="_blank">
+                                <a href="https://netminder-frontend-c2d1f8e64193.herokuapp.com/" target="_blank">
                                     <button
                                         className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
